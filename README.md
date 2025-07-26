@@ -13,4 +13,6 @@ The second one uses the json to predict the prices of a car with a given milleag
 
 The program can also caculate it's own precision and render a graph.
 
+///THIS READ ME IS NOT FINISHED//
+
 ---
